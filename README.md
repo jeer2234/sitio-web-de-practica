@@ -1,2 +1,1 @@
-comenzando desde cero un ptoyecto de sitio web con python y django. 
-poco a poco se le hiran añadiendo todo tipo de funcionalidades que vaya aprendiendo con el tiempo.
+Comenzando desde cero un proyecto de sitio web con Python y Django. Poco a poco se le irá añadiendo todo tipo de funcionalidades que vaya aprendiendo con el tiempo.
